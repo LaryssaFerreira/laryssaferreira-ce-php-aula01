@@ -12,7 +12,7 @@
         margin : auto;
     }
  
-  t{
+  td{
     border : 1px solid black; 
   }
  
@@ -83,27 +83,11 @@
       <td>  B <sup>a </sup> </td>
       <td> 
       <?php
-        echo pow($base, $exponente);
+        echo pow($B, $A);
       ?>
       </td>
   </tr>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
  
  </table>
+  </body>
   
